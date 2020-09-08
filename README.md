@@ -1,2 +1,2 @@
-# -register-user
+# Register User
 Register User Vanilla JS
